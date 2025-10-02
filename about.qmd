@@ -1,13 +1,36 @@
 ---
 title: "About"
-image: profile.jpg
+title-block-banner: true
+image: rakha-pict.jpg
 about:
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
-
+      href: https://github.com/rsyahpradana
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/akbar-rakha-syahpradana-9102b41b0
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+I am a Master of Business (Data Analytics for Business) student at Monash University with a background in Economics and Marketing.
+My passion lies in using data not only to analyse the past, but also to shape strategies for the future.
+I am particularly interested in how analytics can drive business development, uncover new opportunities, and support smarter, more sustainable growth.
+
+Throughout my studies, I have explored a wide range of analytical approaches, from identifying key patterns in customer behaviour to building predictive models that inform decision-making.
+I am currently enrolled in the Communicating with Data unit in my final semester, where I am developing skills in presenting insights through blogs, reports, and interactive dashboards, as well as crafting data stories that resonate with wider audiences.
+These experiences strengthen my ability to transform complex information into clear, actionable narratives that add value beyond the numbers.
+
+What motivates me most is the challenge of connecting data with real-world business goals.
+I enjoy tackling questions that do not have straightforward answers and finding solutions that combine creativity with evidence.
+I see data analytics as a bridge between detail-oriented research and strategic business thinking, and I aim to apply this mindset to projects that create meaningful impact across industries.
+
+I have a strong perseverance that helps me stay committed even when challenges arise.
+I pair this with adaptability and attention to detail, which allow me to approach problems with focus and curiosity.
+Beyond my academic work, I enjoy exploring new tools, expanding my knowledge, and finding creative ways to use data as a driver for business development and problem-solving.
+
+# Contact
+
+- 📧 [asya0008@student.monash.edu](mailto:asya0008@student.monash.edu)
+- Student ID : 34096647
+- 📍 Monash University, Australia
