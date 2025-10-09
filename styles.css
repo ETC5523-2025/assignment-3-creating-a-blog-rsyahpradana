@@ -34,7 +34,7 @@ a:hover {
 
 .navbar .navbar-brand,
 .navbar .nav-link {
-  color: #303E4E!important;
+  color: lightgrey!important;
 }
 .navbar .nav-link:hover {
   color: #F0E7D5 !important;
